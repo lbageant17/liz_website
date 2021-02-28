@@ -1,0 +1,15 @@
+---
+title: "Liz"
+author: 
+date: 
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+![text](images/palouse.jpg)
+
+
