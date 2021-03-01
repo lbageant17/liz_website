@@ -9,7 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Recent Publications
 
 * **Fishers' response to temperature change reveals the importance of integrating human behavior in climate change analysis.** Fiorella, K.J. Bageant, E., Schwartz, N.B., Thilsted, S.H., Barrett, C.B. *Science Advances.* Forthcoming.
 
