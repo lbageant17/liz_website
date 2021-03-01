@@ -1,5 +1,5 @@
 ---
-title: "Liz's Recent Publications"
+title: "Liz's Publications"
 author: 
 date: 
 output: html_document

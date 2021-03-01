@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Liz"
 author: 
 date: 
 output: html_document
@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![text](images/palouse.jpg)
+![](images/palouse.jpg)
 
 Liz Bageant is a Research Support Specialist working on a diverse range of development topics including index insurance, agriculture, fisheries, gender, and food and nutrition security in Africa and Asia. Liz also coordinates the ["Structural Transformation of African Agriculture and Rural Spaces (STAARS) project and the STAARS Fellowship Program"](http://barrett.dyson.cornell.edu/staars/index.html)
 
