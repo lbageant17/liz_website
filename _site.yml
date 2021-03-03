@@ -5,4 +5,5 @@ navbar:
       href: index.html
     - text: "Liz"
       href: liz.html
-    -
+    - text: "Chunan"
+      href: Chunan.html
